@@ -1,0 +1,31 @@
+# Core
+Django
+djangorestframework
+django-filter
+
+# Authentication
+djangorestframework-simplejwt
+
+# Database
+psycopg2-binary
+
+# File Upload and Bulk Import
+pandas
+openpyxl
+
+# Utilities
+python-dotenv
+
+# Audit / Signal
+django-simple-history
+
+# Barcode / QR
+qrcode
+Pillow
+
+# Forecasting
+numpy
+
+
+
+
