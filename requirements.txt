@@ -15,6 +15,7 @@ openpyxl
 
 # Utilities
 python-dotenv
+django-cors-headers
 
 # Audit / Signal
 django-simple-history
@@ -26,6 +27,5 @@ Pillow
 # Forecasting
 numpy
 
-
-
-
+# Production server
+gunicorn
